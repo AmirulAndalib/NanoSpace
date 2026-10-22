@@ -22,9 +22,9 @@
     "locale-parser": "^1.1.2",
     "lyrics-finder": "^21.7.0",
     "moment": "^2.29.1",
-    "mongoose": "^5.9.19",
+    "mongoose": "^9.11.3",
     "node-cron": "^3.0.1",
-    "uuid": "^8.3.2",
+    "uuid": "^14.0.3",
     "voucher-code-generator": "^1.1.1",
     "youtube-sr": "^4.1.9"
   },
